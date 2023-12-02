@@ -1,0 +1,28 @@
++++
+# Talk widget.
+widget = "grants"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Grants"
+subtitle = ""
+
+[design.spacing]
+  padding = ["60px", "0", "40px", "0"]
+
+#[[content]]
+#  date = ""
+#  title = ""
+
+
+[[content]]
+  title = "A Study for the Future-oriented DANE-based Web Architecture to Solve Problems in the Current TLS-based Web Ecosystem"
+  supporter = "Basic Science Research Program - National Research Foundation of Korea (NRF)"
+  date_start = "Sep 2022"
+  date_end = "Aug 2023"
+  role = "Primary Investigator"
+  web_link = "https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=352"
+
+
++++
