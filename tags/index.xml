@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Hyeonmin Lee</title>
-    <link>//localhost:1313/tags/</link>
-      <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu_2a0e009cb7b779d5.png</url>
+      <url>/images/icon_hu_8263fe1dd6422530.png</url>
       <title>Tags</title>
-      <link>//localhost:1313/tags/</link>
+      <link>/tags/</link>
     </image>
     
   </channel>
