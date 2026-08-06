@@ -1,0 +1,183 @@
++++
+# Publication widget.
+widget = "publication"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
+
+title = "Publications"
+subtitle = ""
+
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+#date_format = "Jan 2006"
+
+
+[design.spacing]
+  padding = ["30px", "0px", "20px", "0"]
+
+
+[[publication]]
+  organization = "In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering"
+  organization_abbr = "ASE'25"
+  title = "RFCScope: Detecting Logical Ambiguities in Internet Protocol Specifications"
+  url = ""
+  city = "Seoul, South Korea"
+  authors = "Mrigank Pawagi, Lize Shao, <b>Hyeonmin Lee</b>, Yixin Sun, and Wenxi Wang"
+  date_pub = "2025-11-16"
+  #url_pdf = "publication/paper/"
+  url_artifact = "https://github.com/HIPREL-Group/RFCScope/"
+
+[[publication]]
+  organization = "In Proceedings of the ACM Internet Measurement Conference"
+  organization_abbr = "IMC'25"
+  title = "Inside Certificate Chains Beyond Public Issuers: Structure and Usage Analysis from a Campus Network"
+  url = ""
+  city = "Madison, USA"
+  authors = "Hongying Dong, Yizhe Zhang, <b>Hyeonmin Lee</b>, and Yixin Sun"
+  date_pub = "2025-10-28"
+  url_pdf = "publication/paper/imc25-cert-chain.pdf"
+  url_artifact = "https://keyinfra.cs.virginia.edu/cert_chain/abstract/"
+
+
+[[publication]]
+  organization = "In Proceedings of the International Conference on Computer Communications and Networks"
+  organization_abbr = "ICCCN'25"
+  title = "PQTLS-AD: Post-Quantum TLS Accelerated with DNS"
+  url = ""
+  city = "Tokyo, Japan"
+  authors = "Sangwon Lim, <b>Hyeonmin Lee</b>, Gyeongheon Jeong, and Taekyoung Kwon"
+  date_pub = "2025-08-04"
+  url_pdf = "publication/paper/icccn25-lim.pdf"
+
+
+
+[[publication]]
+  organization = "In Proceedings of the ACM International Conference on Architectural Support for Programming Languages and Operating Systems"
+  organization_abbr = "ASPLOS'25"
+  title = "PAVE: Information Flow Control for Privacy-preserving Online Data Processing Services" 
+  url = ""
+  city = "Rotterdam, Netherlands"
+  authors = "Minkyung Park, Jaeseung Choi, <b>Hyeonmin Lee</b>, and Taekyoung Kwon"
+  date_pub = "2025-03-31"
+  url_pdf = "publication/paper/asplos25-pave.pdf"
+  #url_data = "https://keyinfra.cs.virginia.edu/dns_http/abstract/"
+#  url_slide = ""
+
+
+[[publication]]
+  organization = "In Proceedings of the ACM Internet Measurement Conference"
+  organization_abbr = "IMC'24"
+  title = "Exploring the Ecosystem of DNS HTTPS Resource Records: An End-to-End Perspective" 
+  url = ""
+  city = "Madrid, Spain"
+  authors = "Hongying Dong, Yizhe Zhang, <b>Hyeonmin Lee</b>, Shumon Huque, and Yixin Sun"
+  date_pub = "2024-11-04"
+  url_artifact = "https://keyinfra.cs.virginia.edu/dns_http/abstract/"
+  url_pdf = "publication/paper/imc24-https.pdf"
+  url_presentation = ["DNS-OARC Presented", "https://indico.dns-oarc.net/event/52/contributions/1156/"]
+
+
+
+[[publication]]
+  organization = "In Proceedings of the ACM Internet Measurement Conference"
+  organization_abbr = "IMC'24"
+  title = "Mutual TLS in Practice: A Deep Dive into Certificate Configurations and Privacy Issues"
+  url = ""
+  city = "Madrid, Spain"
+  authors = "Hongying Dong, Yizhe Zhang, <b>Hyeonmin Lee</b>, Kevin Du, Guancheng Tu, and Yixin Sun"
+  date_pub = "2024-11-04"
+  url_artifact = "https://keyinfra.cs.virginia.edu/mutual_tls/abstract/"
+  url_pdf = "publication/paper/imc24-mutual-tls.pdf"
+#  url_slide = ""
+#  url_artifact = ""
+
+
+
+[[publication]]
+  organization = "In Proceedings of the International Conference on Computer Communications and Networks"
+  organization_abbr = "ICCCN'24"
+  title = "DDD: A DNS-based DDoS Defense Scheme Using Puzzles"
+  url = ""
+  city = "Big Island, Hawaii, USA"
+  authors = "<b>Hyeonmin Lee</b>, Taehyun Kang, Sukhun Yang, Jinyong Jun, and Taekyoung Kwon"
+  date_pub = "2024-07-29"
+  url_pdf = "publication/paper/icccn24-lee.pdf"
+  url_artifact = "https://github.com/Sagit25/DNS-based-DDoS-mitigation"
+
+
+
+[[publication]]
+  organization = "In Proceedings of the ACM Web Conference"
+  organization_abbr = "TheWebConf'23 (formerly WWW)"
+  title = "ZTLS: A DNS-based Approach to Zero Round Trip in TLS handshake"
+  url = ""
+  city = "Austin, USA"
+  authors = "Sangwon Lim, <b>Hyeonmin Lee</b>, Hyunsoo Kim, Hyunwoo Lee, and Ted ''Taekyoung'' Kwon"
+  date_pub = "2023-04-30"
+  url_pdf = "publication/paper/thewebconf23-lim.pdf"
+  url_artifact = "https://zenodo.org/records/7597964"
+
+
+[[publication]]
+  organization = "In Proceedings of the USENIX Security Symposium"
+  organization_abbr = "USENIX Security'22"
+  title = "Under the Hood of DANE Mismanagement in SMTP"
+  url = ""
+  city = "Boston, USA"
+  authors = "<b>Hyeonmin Lee</b>, Md. Ishtiaq Ashiq, Moritz Müller, Roland van Rijswijk-Deij, Taekyoung ''Ted'' Kwon, and Taejoong Chung"
+  date_pub = "2022-08-12"
+  url_pdf = "publication/paper/sec22-lee.pdf"
+  url_artifact = "https://dane-study.github.io"
+
+
+#[[publication]]
+#  organization = "Ph.D. Thesis"
+#  title = "Understanding the DANE Ecosystem in Email: How Is It Deployed and Managed?"
+#  url = ""
+#  city = "Graduate School of Seoul National University"
+#  authors = "<b>Hyeonmin Lee</b>"
+#  date_pub = "2022-02-24"
+
+
+[[publication]]
+  organization = "In Proceedings of the USENIX Security Symposium"
+  organization_abbr = "USENIX Security'20"
+  title = "A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email"
+  url = ""
+  city = "Boston, USA"
+  authors = "<b>Hyeonmin Lee</b>, Aniketh Gireesh, Roland van Rijswijk-Deij, Taekyoung ''Ted'' Kwon, and Taejoong Chung"
+  date_pub = "2020-08-12"
+  url_pdf = "publication/paper/sec20-lee.pdf"
+  url_artifact = "https://dane-study.github.io"
+
+[[publication]]
+  organization = "The Joint Conference on Communications and Information"
+  organization_abbr = "JCCI'18"
+  title = "Development of Cellular Core Network Enabling Network Function Virtualization"
+  url = ""
+  city = "Yeosu, South Korea"
+  authors = "<b>Hyeonmin Lee</b>, Junghwan Song, and Taekyoung Kwon"
+  date_pub = "2018-05-02"
+
+
+[[publication]]
+  organization = "Elsevier Computer Network"
+  organization_abbr = "SCI-E"
+  title = "TwinPeaks: An Approach for Certificateless Public Key Distribution for the Internet and Internet of Things"
+  authors = "Eunsang Cho, Jeongnyeo Kim, Minkyung Park, <b>Hyeonmin Lee</b>, Chorom Hamm, Soobin Park, Sungmin Sohn, Minhyeok Kang, Ted ''Taekyoung'' Kwon"
+  date_pub = "2020-07-01"
+  url_pdf = "publication/paper/cho-2020-twinpeaks.pdf"
+
+
+[[publication]]
+  organization = "Poster Session in the USENIX Security Symposium"
+  organization_abbr = "USENIX Security'22"
+  title = "A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email"
+  url = ""
+  city = "Boston, USA"
+  authors = "<b>Hyeonmin Lee</b>, Aniketh Gireesh, Roland van Rijswijk-Deij, Taekyoung ''Ted'' Kwon, and Taejoong Chung"
+  date_pub = "2022-08-12"
+  url_link = "https://www.usenix.org/conference/usenixsecurity22/poster-session"
+
++++
