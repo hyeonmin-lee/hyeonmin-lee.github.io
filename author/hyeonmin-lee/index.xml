@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hyeonmin Lee</title>
-    <link>//localhost:1313/author/hyeonmin-lee/</link>
-      <atom:link href="//localhost:1313/author/hyeonmin-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/hyeonmin-lee/</link>
+      <atom:link href="/author/hyeonmin-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyeonmin Lee</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu_8263fe1dd6422530.png</url>
+      <url>/images/icon_huabebbd9bf4953b87ce09167c017f48ca_30999_512x512_fill_lanczos_center_3.png</url>
       <title>Hyeonmin Lee</title>
-      <link>//localhost:1313/author/hyeonmin-lee/</link>
+      <link>/author/hyeonmin-lee/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>//localhost:1313/publication/preprint/</link>
+      <link>/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/preprint/</guid>
+      <guid>/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -28,24 +28,14 @@
     </item>
     
     <item>
-      <title>Hyeonmin Lee</title>
-      <link>//localhost:1313/author/hyeonmin-lee/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/author/hyeonmin-lee/</guid>
-      <description>&lt;p&gt;I am a Postdoctoral Research Associate in the Department of Computer Science at the University of Virginia, working with &lt;a href=&#34;https://www.cs.virginia.edu/~ys3kz/&#34; target=&#34;_blank&#34;&gt;Prof. Yixin Sun&lt;/a&gt;. I earned my Ph.D. and B.S. degrees in Computer Science and Engineering from Seoul National University, where I was co-advised by &lt;a href=&#34;https://mmlab.snu.ac.kr/&#34; target=&#34;_blank&#34;&gt;Prof. Taekyoung “Ted” Kwon&lt;/a&gt; (Seoul National University) and &lt;a href=&#34;https://taejoong.github.io/&#34; target=&#34;_blank&#34;&gt;Prof. Taejoong “Tijay” Chung&lt;/a&gt; (Viginia Tech).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[ANNOUNCEMENT]&lt;/strong&gt; &lt;em&gt;I will be joining Hanyang University ERICA as a tenure-track Assistant Professor in the Division of Computer Science, College of Computing, starting in Spring 2026.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>//localhost:1313/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/jupyter/index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Welcome to Academic!
@@ -89,9 +79,9 @@ date: 2019-09-01
     
     <item>
       <title>An example journal article</title>
-      <link>//localhost:1313/publication/journal-article/</link>
+      <link>/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/journal-article/</guid>
+      <guid>/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -109,9 +99,9 @@ date: 2019-09-01
     
     <item>
       <title>An example conference paper</title>
-      <link>//localhost:1313/publication/conference-paper/</link>
+      <link>/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/conference-paper/</guid>
+      <guid>/publication/conference-paper/</guid>
       <description></description>
     </item>
     
