@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Hyeonmin Lee</title>
-    <link>//localhost:1313/publication-type/1/</link>
-      <atom:link href="//localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu_8263fe1dd6422530.png</url>
+      <url>/images/icon_hu_2a0e009cb7b779d5.png</url>
       <title>1</title>
-      <link>//localhost:1313/publication-type/1/</link>
+      <link>/publication-type/1/</link>
     </image>
     
     <item>
       <title>An example conference paper</title>
-      <link>//localhost:1313/publication/conference-paper/</link>
+      <link>/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/conference-paper/</guid>
+      <guid>/publication/conference-paper/</guid>
       <description></description>
     </item>
     
