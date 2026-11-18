@@ -5,11 +5,11 @@
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
   "icons": [{
-    "src": "/images/icon_hu_c7fcdcef4462d71f.png",
+    "src": "/images/icon_hu_c0bf7475744289d2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hu_8263fe1dd6422530.png",
+    "src": "/images/icon_hu_2a0e009cb7b779d5.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
